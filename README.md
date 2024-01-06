@@ -1,0 +1,1 @@
+# Save-Restore-Photoshop-Session
